@@ -1,0 +1,11 @@
+Manager
+|--> Login Page
+     |--> Successful
+     |--> Unsuccessful
+
+Dev
+|--> Login Page
+     |--> Successful
+     |--> Unsuccessful
+
+Need login api to validate
